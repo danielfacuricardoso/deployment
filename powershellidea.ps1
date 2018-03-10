@@ -30,3 +30,8 @@ If (Get-Service $serviceName -ErrorAction SilentlyContinue) {
 
 }
 
+---
+
+2 Update Java:
+
+https://www.powershelladmin.com/wiki/PowerShell_Java_Auto-Update_Script
