@@ -1,0 +1,3 @@
+$ips = Get-Content C:\directory\name.txt
+
+Test-Connection -ComputerName $ips | Out-File C:\directory\name.txt
